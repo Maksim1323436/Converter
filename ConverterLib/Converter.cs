@@ -30,7 +30,7 @@ namespace ConverterLib
             }
         }
         /// <summary>
-        /// Метод возвращает список физических величин, реализованных в приложении
+        /// Метод возвращает список физических величин
         /// </summary>
         /// <returns>Списко физических величин</returns>
         public List<string> GetPhysicValuesList()
